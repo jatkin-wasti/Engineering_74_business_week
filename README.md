@@ -3,6 +3,7 @@
 - Download git
 - Configure details with the following two commands:
 ```git config --global user.name "INSERT YOUR GITHUB USERNAME HERE"```
+
 ```git config --global user.email "INSERT YOUR GITHUB EMAIL ADDRESS HERE"```
 ## Creating your key pairs
 - Create an SSH key pair using the following command in your git terminal:
